@@ -1,0 +1,7 @@
+pandas==2.3.1
+tqdm==4.67.1
+scikit-learn==1.6.1
+pillow==11.3.0
+transformers==4.54.1
+ipykernel==6.30.0
+accelerate==1.9.0

@@ -1,0 +1,8 @@
+data/*
+deit_results/*
+!data/.gitkeep
+!deit_results/.gitkeep
+.vscode
+deit_logs
+tensorboard_logs
+deit_retina_ckpt
